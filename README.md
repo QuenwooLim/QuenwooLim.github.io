@@ -1,5 +1,3 @@
-
-
 ![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
 ![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
 ![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
@@ -8,8 +6,6 @@
 # A simple Github Pages template for personal academic websites.
 
 ## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
-
 
 ## Introduction
 
