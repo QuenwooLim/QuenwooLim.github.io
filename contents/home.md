@@ -10,7 +10,7 @@ Email: linhy69@mail2.sysu.edu.cn
 2023.09 - Now: Sun Yat-sen University, Computer Science and Technology, Bachelor
 
 #### Research Interests
-None
+Large Language Models, AI Agents and Machine Learning
 
 #### Internship Experience
 2025.07-2026.06: AI Agent Developer Intern at Tencent, Shenzhen, China.
