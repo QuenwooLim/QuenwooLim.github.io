@@ -13,4 +13,4 @@ Email: linhy69@mail2.sysu.edu.cn
 Large Language Models, AI Agents and Machine Learning
 
 #### Internship Experience
-2025.07-2026.06: AI Agent Developer Intern at Tencent, Shenzhen, China.
+2025.07.15 - now: AI Agent Developer Intern, Guangzhou, China.
