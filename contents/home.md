@@ -4,8 +4,7 @@ LIN Hongyu , Male, born in April 2004, had majored in Computer Science and Techn
 
 #### Contact
 
-Personnal Email: 83022040@qq.com\
-School Email: linhy69@mail2.sysu.edu.cn
+Email: linhy69@mail2.sysu.edu.cn
 
 #### Education
 2023.09 - Now: Sun Yat-sen University, Computer Science and Technology, Bachelor
