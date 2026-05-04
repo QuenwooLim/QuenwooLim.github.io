@@ -1,6 +1,6 @@
 [![fulL549](https://img.shields.io/badge/fulL549-github-blue?logo=github)](https://github.com/fulL549/fulL549.github.io)
 
-LIN Hongyu , Male, born in April 2004, had majored in Computer Science and Technology Major of School of Computer Science and Engineering in Sun-Yat Sen Uinversity. Without any unexpected accident, he will graduate in June 2027 and be awarded the Bachelor Degree of Engineering.
+I am LIN Hongyu , Male, born in April 2004, majored in Computer Science and Technology Major of School of Computer Science and Engineering in Sun-Yat Sen Uinversity. Without any unexpected accident, I will graduate in June 2027 and be awarded the Bachelor Degree of Engineering.
 
 #### Contact
 
