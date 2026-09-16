@@ -17,24 +17,14 @@
 .top-section {
     position: relative;
     overflow: hidden;
+    margin-top: 5rem;
+    padding: 0;
 }
 
 .top-section-image {
     display: block;
     width: 100%;
     height: auto;
-}
-
-.top-section h2 {
-    font-weight: 400;
-}
-
-.top-section .top-section-content {
-    position: absolute;
-    inset: 0;
-    display: flex;
-    align-items: center;
-    z-index: 1;
 }
 
 section header h2{
@@ -56,7 +46,8 @@ section .main-body{
 }
 
 #home {
-    padding-top: 1.5rem;
+    margin-top: 0;
+    padding-top: 0.5rem;
 }
 
 .bg-gradient-primary-to-secondary-gray {
@@ -90,7 +81,7 @@ section .main-body{
 
 .home-layout {
     display: grid;
-    grid-template-columns: minmax(0, 7fr) minmax(220px, 3fr);
+    grid-template-columns: minmax(220px, 3fr) minmax(0, 7fr);
     gap: 3rem;
     align-items: start;
 }
