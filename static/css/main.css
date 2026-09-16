@@ -47,7 +47,11 @@ section .main-body{
 
 #home {
     margin-top: 0;
-    padding-top: 0.5rem;
+    padding-top: 1.5rem;
+}
+
+#home .main-body {
+    padding-top: 1rem;
 }
 
 .bg-gradient-primary-to-secondary-gray {
