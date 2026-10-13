@@ -35,9 +35,29 @@ section header h2{
 }
 
 section .main-body{
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     font-weight: 200;
-    line-height: 2.4rem;
+    line-height: 2rem;
+}
+
+.content-section {
+    margin-top: 0;
+    padding: 3.5rem 0;
+    background: #ffffff;
+}
+
+.content-section + .content-section {
+    padding-top: 3rem;
+}
+
+.content-section > .container {
+    background: #ffffff;
+}
+
+.content-section header {
+    margin: 0 0 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid #dfe3ee;
 }
 
 
@@ -134,5 +154,3 @@ section .main-body{
         margin: 0 auto;
     }
 }
-
-
